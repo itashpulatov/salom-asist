@@ -1,0 +1,88 @@
+{
+  "header": {
+    "title": "SALOM ASSIST"
+  },
+  "hero": {
+    "title": "💙 Medical Assistance in Uzbekistan",
+    "subtitle": "Your reliable partner since 2020",
+    "description": "Comprehensive medical services for insurance companies and insured individuals",
+    "cta": "Contact Us"
+  },
+  "promo": {
+    "active": "Active Service",
+    "title": "Salom Assist",
+    "description": "Your trusted medical partner - 24/7 consultations, high-quality services and professional assistance",
+    "support": "Support",
+    "services": "Medical Services",
+    "partners": "Partner Institutions",
+    "features": {
+      "specialists": "⚕️ Specialists",
+      "treatment": "🏥 Treatment",
+      "quality": "📋 Quality Control",
+      "coordination": "🔍 Coordination"
+    }
+  },
+  "about": {
+    "title": "📊 About Us in Numbers",
+    "years": "years in medical assistance market",
+    "clinics": "partner medical institutions",
+    "support": "round-the-clock support"
+  },
+  "services": {
+    "title": "🩺 Our Services",
+    "consultation": {
+      "title": "Expert Doctor Consultations",
+      "description": "Qualified specialists are ready to consult you on any medical issues at your convenient time"
+    },
+    "treatment": {
+      "title": "Treatment Organization",
+      "description": "Full support of the treatment process from specialist selection to results monitoring"
+    },
+    "quality": {
+      "title": "Quality Management",
+      "description": "Constant monitoring of the quality of medical services provided and compliance with standards"
+    },
+    "coordination": {
+      "title": "Control and Coordination",
+      "description": "Coordination of all stages of medical assistance and monitoring compliance with treatment protocols"
+    }
+  },
+  "infrastructure": {
+    "title": "⚙️ Infrastructure and Approach",
+    "callCenter": {
+      "title": "24/7 Call Center",
+      "description": "Round-the-clock support and consultations"
+    },
+    "network": {
+      "title": "Partner Network",
+      "description": "Over 300 medical institutions throughout Uzbekistan"
+    },
+    "approach": {
+      "title": "Individual Approach",
+      "description": "Personal attention to each patient"
+    },
+    "monitoring": {
+      "title": "Monitoring",
+      "description": "Constant quality control of services"
+    }
+  },
+  "contact": {
+    "title": "👉 Contact Us",
+    "phone": "Phone",
+    "email": "Email",
+    "hours": "Working Hours",
+    "hoursText": "24 hours a day\n7 days a week"
+  },
+  "footer": {
+    "title": "💙 SALOM ASSIST",
+    "slogan": "Assistance at Every Stage",
+    "mission": "Care for the health of citizens of Uzbekistan and foreigners",
+    "copyright": "© 2025 Salom Assist. All rights reserved."
+  },
+  "navigation": {
+    "about": "About Us",
+    "services": "Services",
+    "infrastructure": "Approach",
+    "contact": "Contact"
+  }
+}

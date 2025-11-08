@@ -1,0 +1,88 @@
+{
+  "header": {
+    "title": "SALOM ASSIST"
+  },
+  "hero": {
+    "title": "💙 O'zbekistonda tibbiy yordam",
+    "subtitle": "2020 yildan beri ishonchli hamkoringiz",
+    "description": "Sug'urta kompaniyalari va sug'urtalangan shaxslar uchun kompleks tibbiy xizmatlar",
+    "cta": "Biz bilan bog'lanish"
+  },
+  "promo": {
+    "active": "Faol xizmat",
+    "title": "Salom Assist",
+    "description": "Sizning ishonchli tibbiy hamkoringiz - 24/7 maslahat, yuqori sifatli xizmat va professional yordam",
+    "support": "Qo'llab-quvvatlash",
+    "services": "Tibbiy xizmatlar",
+    "partners": "Sherik muassasalar",
+    "features": {
+      "specialists": "⚕️ Mutaxassislar",
+      "treatment": "🏥 Davolanish",
+      "quality": "📋 Sifat nazorati",
+      "coordination": "🔍 Koordinatsiya"
+    }
+  },
+  "about": {
+    "title": "📊 Biz haqimizda raqamlarda",
+    "years": "yil tibbiy yordam bozorida",
+    "clinics": "hamkor tibbiy muassasalar",
+    "support": "to'xtovsiz qo'llab-quvvatlash"
+  },
+  "services": {
+    "title": "🩺 Bizning xizmatlar",
+    "consultation": {
+      "title": "Mutaxassis shifokorlar maslahati",
+      "description": "Malakali mutaxassislar sizga qulay vaqtda tibbiy savollaringizga maslahat berishga tayyor"
+    },
+    "treatment": {
+      "title": "Davolanishni tashkil qilish",
+      "description": "Mutaxassisni tanlashdan natijalarni nazorat qilishgacha davolanish jarayonini to'liq qo'llab-quvvatlash"
+    },
+    "quality": {
+      "title": "Sifat boshqaruvi",
+      "description": "Ko'rsatilayotgan tibbiy xizmatlar sifatini va standartlarga muvofiqligini doimiy monitoring qilish"
+    },
+    "coordination": {
+      "title": "Nazorat va koordinatsiya",
+      "description": "Tibbiy yordamning barcha bosqichlarini koordinatsiya qilish va davolash protokollariga rioya qilishni nazorat qilish"
+    }
+  },
+  "infrastructure": {
+    "title": "⚙️ Infratuzilma va yondashuv",
+    "callCenter": {
+      "title": "24/7 Call-markaz",
+      "description": "To'xtovsiz qo'llab-quvvatlash va maslahatlar"
+    },
+    "network": {
+      "title": "Hamkor tarmog'i",
+      "description": "O'zbekiston bo'ylab 300 dan ortiq tibbiy muassasalar"
+    },
+    "approach": {
+      "title": "Individual yondashuv",
+      "description": "Har bir bemoraga shaxsiy e'tibor"
+    },
+    "monitoring": {
+      "title": "Monitoring",
+      "description": "Xizmatlar sifatini doimiy nazorat qilish"
+    }
+  },
+  "contact": {
+    "title": "👉 Biz bilan bog'laning",
+    "phone": "Telefon",
+    "email": "Email",
+    "hours": "Ish rejimi",
+    "hoursText": "Kuniga 24 soat\nHaftada 7 kun"
+  },
+  "footer": {
+    "title": "💙 SALOM ASSIST",
+    "slogan": "Har bir bosqichda yordam",
+    "mission": "O'zbekiston fuqarolari va xorijliklar salomatligi g'amxo'rligi",
+    "copyright": "© 2025 Salom Assist. Barcha huquqlar himoyalangan."
+  },
+  "navigation": {
+    "about": "Biz haqimizda",
+    "services": "Xizmatlar",
+    "infrastructure": "Yondashuv",
+    "contact": "Aloqa"
+  }
+}
